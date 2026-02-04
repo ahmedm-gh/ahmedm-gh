@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" ></p>
+<p align="center"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></p>
 
 ### Flutter Developer — Clean Architecture • High Performance • Production Apps
 
@@ -92,4 +92,4 @@ Performance, behavior tracking & production monitoring mindset.
 
 > Clean code. Smooth UX. Real users. Zero fluff, **THAT'S MY CODE**.
 
-<p align="center"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" ></p>
+<p align="center"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></p>
