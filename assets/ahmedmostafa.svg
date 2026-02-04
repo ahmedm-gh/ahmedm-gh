@@ -44,6 +44,7 @@
         letter-spacing: 4px;
         }
 
+        /* Default (Dark Mode) - White text with black outline */
         .name-fill {
         fill: #ffffff;
         fill-opacity: 0;
@@ -73,6 +74,36 @@
         fill: #888888;
         opacity: 0;
         animation: fadeInContainer 0.8s ease-out 1.3s forwards;
+        }
+
+        /* Light Mode - Dark text with white outline */
+        @media (prefers-color-scheme: light) {
+        .name-fill {
+        fill: #1a1a2e;
+        }
+
+        .name-static-outline {
+        stroke: #ffffff;
+        }
+
+        .subtitle {
+        fill: #555555;
+        }
+        }
+
+        /* Dark Mode - Light text with dark outline (explicit) */
+        @media (prefers-color-scheme: dark) {
+        .name-fill {
+        fill: #ffffff;
+        }
+
+        .name-static-outline {
+        stroke: #000000;
+        }
+
+        .subtitle {
+        fill: #aaaaaa;
+        }
         }
     </style>
 
