@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+    <defs>
+        <linearGradient id="variantGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#FFD700" />
+            <stop offset="50%" style="stop-color:#FF8C00" />
+            <stop offset="100%" style="stop-color:#FFD700" />
+        </linearGradient>
+    </defs>
+
+    <rect width="100%" height="100%" fill="none" />
+
+    <style>
+        @keyframes fadeInContainer {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+        }
+
+        @keyframes fillIn {
+        0% { fill-opacity: 0; opacity: 0; }
+        100% { fill-opacity: 1; opacity: 1; }
+        }
+
+        @keyframes moveStroke {
+        0% { stroke-dashoffset: 2000; }
+        100% { stroke-dashoffset: 0; }
+        }
+
+        .base-font {
+        /* Cleaner, thinner system font stack */
+        font-family: 'Segoe UI', 'Trebuchet MS', 'Verdana', sans-serif;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        text-transform: uppercase;
+        font-weight: 600; /* Semi-bold instead of 900 */
+        }
+
+        .container {
+        opacity: 0;
+        animation: fadeInContainer 0.5s ease-out 0.5s forwards;
+        }
+
+        .name-base {
+        font-size: 42px;
+        letter-spacing: 4px;
+        }
+
+        .name-fill {
+        fill: #ffffff;
+        fill-opacity: 0;
+        animation: fillIn 1s ease-in-out 1.0s forwards;
+        }
+
+        .name-static-outline {
+        fill: none;
+        stroke: #000000;
+        stroke-width: 1.2px;
+        stroke-linejoin: round;
+        opacity: 0;
+        animation: fillIn 1s ease-in-out 1.0s forwards;
+        }
+
+        .name-outline {
+        fill: none;
+        stroke: url(#variantGradient);
+        stroke-width: 0.5px;
+        stroke-dasharray: 100 1900;
+        animation: moveStroke 6s linear infinite 0.5s;
+        }
+
+        .subtitle {
+        font-size: 14px;
+        letter-spacing: 3px;
+        fill: #888888;
+        opacity: 0;
+        animation: fadeInContainer 0.8s ease-out 1.3s forwards;
+        }
+    </style>
+
+    <g class="container">
+        <text x="50%" y="50" class="base-font name-base name-static-outline" aria-hidden="true"
+            textLength="520" lengthAdjust="spacing">AHMED MOSTAFA</text>
+        <text x="50%" y="50" class="base-font name-base name-fill" textLength="520"
+            lengthAdjust="spacing">AHMED MOSTAFA</text>
+        <text x="50%" y="50" class="base-font name-base name-outline" aria-hidden="true"
+            textLength="520" lengthAdjust="spacing">AHMED MOSTAFA</text>
+
+        <text x="50%" y="85" class="base-font subtitle" textLength="520" lengthAdjust="spacing">CODE
+            • BUILD • SHIP</text>
+    </g>
+</svg>
