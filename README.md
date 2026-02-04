@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></p>
+<p align="center"><a href="#"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>
 
 ### Flutter Developer — Clean Architecture • High Performance • Production Apps
 
@@ -21,15 +21,15 @@ Shipped apps used by **150k+ users**, focused on **performance, scalability, and
 ## Tech Stack
 
 ### Languages & Frameworks
-<img src="assets/badges/flutter.svg" height="36"/> <img src="assets/badges/dart.svg" height="36"/>
+<a href="#"><img src="assets/badges/flutter.svg" height="36"/></a> <a href="#"><img src="assets/badges/dart.svg" height="36"/></a>
 
 ### Backend & Data
-<img src="assets/badges/firebase.svg" height="36"/> <img src="assets/badges/sqlite.svg" height="36"/> <img src="assets/badges/json.svg" height="36"/>
+<a href="#"><img src="assets/badges/firebase.svg" height="36"/></a> <a href="#"><img src="assets/badges/sqlite.svg" height="36"/></a> <a href="#"><img src="assets/badges/json.svg" height="36"/></a>
 <!-- <img src="assets/badges/mysql.svg" height="36"/> -->
 
 ### Tools & Workflow
-<img src="assets/badges/vscode.svg" height="36"/> <img src="assets/badges/antigravity.svg" height="36"/>  
-<img src="assets/badges/postman.svg" height="36"/> <img src="assets/badges/git.svg" height="36"/> <img src="assets/badges/github-actions.svg" height="36"/> <img src="assets/badges/figma.svg" height="36"/>
+<a href="#"><img src="assets/badges/vscode.svg" height="36"/></a> <a href="#"><img src="assets/badges/antigravity.svg" height="36"/></a>  
+<a href="#"><img src="assets/badges/postman.svg" height="36"/></a> <a href="#"><img src="assets/badges/git.svg" height="36"/></a> <a href="#"><img src="assets/badges/github-actions.svg" height="36"/></a> <a href="#"><img src="assets/badges/figma.svg" height="36"/></a>
 
 <!--
 ### Platforms
@@ -74,11 +74,11 @@ _Production apps for clients across MENA & Europe_
 ---
 
 ## AI & Productivity
-<img src="assets/badges/antigravity.svg" height="36"/> <img src="assets/badges/chatgpt.svg" height="36"/> <img src="assets/badges/google-gemini.svg" height="36"/>
+<a href="#"><img src="assets/badges/antigravity.svg" height="36"/></a> <a href="#"><img src="assets/badges/chatgpt.svg" height="36"/></a> <a href="#"><img src="assets/badges/google-gemini.svg" height="36"/></a>
 <!-- <img src="assets/badges/github-copilot.svg" height="36"/> -->
 
 ## Analytics & Quality
-<img src="assets/badges/google-analytics.svg" height="36"/>
+<a href="#"><img src="assets/badges/google-analytics.svg" height="36"/></a>
 
 Performance, behavior tracking & production monitoring mindset.
 
@@ -86,10 +86,10 @@ Performance, behavior tracking & production monitoring mindset.
 <a href="mailto:ichahmedm@gmail.com" target="_blank"><img src="assets/badges/gmail.svg" alt="Gmail" height="28"/></a>
 <a href="https://www.linkedin.com/in/ahmeds1" target="_blank"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="28"/></a>
 <a href="https://wa.me/201014147183" target="_blank"><img src="assets/badges/whatsapp.svg" alt="WhatsApp" height="28"/></a>
-<a href="https://t.me/ahmeds1" target="_blank"><img src="assets/badges/telegram.svg" alt="Telegram" height="28"/></a>
+<a href="https://t.me/iahmedm1" target="_blank"><img src="assets/badges/telegram.svg" alt="Telegram" height="28"/></a>
 
 > [ichahmedm@gmail.com](mailto:ichahmedm@gmail.com), [+201014147183](https://wa.me/201014147183)
 
 > Clean code. Smooth UX. Real users. Zero fluff, **THAT'S MY CODE**.
 
-<p align="center"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></p>
+<p align="center"><a href="#"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>
