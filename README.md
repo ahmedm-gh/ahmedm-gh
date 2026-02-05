@@ -1,41 +1,45 @@
-<p align="center"><a href="#"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>
+<p align="center"><a href="#" ><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>
 
-### Flutter Developer — Clean Architecture • High Performance • Production Apps
-
-Flutter Developer with **4+ years** building **production-grade Android & Web apps** using Flutter & Dart.  
-Shipped apps used by **150k+ users**, focused on **performance, scalability, and clean architecture**.
-
-> I specialize in turning complex requirements into **fast, stable, and maintainable Flutter apps**.
+## Flutter Developer | Clean Architecture | High-Performance Apps
+Ahmed Mostafa - Flutter Developer with **4+ years** building **production-grade Android & Web apps** using Flutter & Dart.  
+Shipped apps used by **150k+ users**, focused on **performance, scalability, and clean architecture**.  
+I specialize in turning complex requirements into **fast, stable, and maintainable Flutter apps**.
 
 ---
 
 ## Core Expertise
-- **Flutter & Dart**: Android, Web
+- **Flutter & Dart**
+- **Object-Oriented Programming**
 - **Performance optimization**: startup time, FPS, rebuilds
 - **Clean Architecture**: SOLID, DRY, KISS
 - **State Management**: BLoC, Cubit
 - **Firebase-first backends & REST APIs**
 - **Pixel-perfect**: Figma → Flutter
-> **IDE**: VS Code, Antigravity
 
 ## Tech Stack
 
 ### Languages & Frameworks
-<a href="#"><img src="assets/badges/flutter.svg" height="36"/></a> <a href="#"><img src="assets/badges/dart.svg" height="36"/></a>
+[![Flutter](assets/badges/flutter.svg)](#)
+[![Dart](assets/badges/dart.svg)](#)
 
 ### Backend & Data
-<a href="#"><img src="assets/badges/firebase.svg" height="36"/></a> <a href="#"><img src="assets/badges/sqlite.svg" height="36"/></a> <a href="#"><img src="assets/badges/json.svg" height="36"/></a>
-<!-- <img src="assets/badges/mysql.svg" height="36"/> -->
+[![Firebase](assets/badges/firebase.svg)](#)
+[![SQLite](assets/badges/sqlite.svg)](#)
+[![JSON](assets/badges/json.svg)](#)
 
 ### Tools & Workflow
-<a href="#"><img src="assets/badges/vscode.svg" height="36"/></a> <a href="#"><img src="assets/badges/antigravity.svg" height="36"/></a>  
-<a href="#"><img src="assets/badges/postman.svg" height="36"/></a> <a href="#"><img src="assets/badges/git.svg" height="36"/></a> <a href="#"><img src="assets/badges/github-actions.svg" height="36"/></a> <a href="#"><img src="assets/badges/figma.svg" height="36"/></a>
+[![VS Code](assets/badges/vscode.svg)](#)
+[![Antigravity](assets/badges/antigravity.svg)](#)  
+[![Postman](assets/badges/postman.svg)](#)
+[![Git](assets/badges/git.svg)](#)
+[![GitHub Actions](assets/badges/github-actions.svg)](#)  
+[![Figma](assets/badges/figma.svg)](#)
+[![Google Stitch](assets/badges/google-stitch.svg)](#)
 
-<!--
 ### Platforms
-<img src="assets/badges/android.svg" height="36"/> <img src="assets/badges/windows.svg" height="36"/>  
-<img src="assets/badges/google-play.svg" height="36"/>
--->
+[![Android](assets/badges/android.svg)](#)
+[![Web](assets/badges/web.svg)](#)
+[![Windows](assets/badges/windows.svg)](#)
 
 ---
 
@@ -48,7 +52,7 @@ Shipped apps used by **150k+ users**, focused on **performance, scalability, and
 ## Professional Experience
 
 **Flutter Developer — Freelance / Remote**  
-_Production apps for clients across MENA & Europe_
+Production apps for clients across MENA & Europe
 
 - Delivered **10+ production Flutter apps** (Android & Web) for real clients
 - Built apps end-to-end: architecture, UI, state management, Firebase, deployment
@@ -62,34 +66,38 @@ _Production apps for clients across MENA & Europe_
 - **Meetings Management App (KSA)** — REST APIs, Dio, scalable models
 - **Education & Booking Systems** — Firebase-first, offline-friendly apps
 
-> Personal and independent projects are listed separately below.
-
-## Personal & Independent Projects
-
+**Personal & Independent Projects**
 - **Logic — Puzzle Game**: A performance-focused logic puzzle game built with Clean Architecture. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.loops) • [Web Version](https://artisticloops-loops.web.app)
 - **Counter Pro — Islamic App**: A fast, offline-first digital counter for daily Dhikr. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.counter_pro)
 - **Quran App**: Minimal Quran app focused on reading clarity and speed. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.quran)
 <!-- - **Quotes App**: Arabic quotes app with offline access and sharing. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.quotes) -->
 
+**See more at**  
+<a href="https://play.google.com/store/apps/dev?id=7130088124590675241"><img src="assets/badges/google-play.svg" /></a>
+
 ---
 
-## AI & Productivity
-<a href="#"><img src="assets/badges/antigravity.svg" height="36"/></a> <a href="#"><img src="assets/badges/chatgpt.svg" height="36"/></a> <a href="#"><img src="assets/badges/google-gemini.svg" height="36"/></a>
-<!-- <img src="assets/badges/github-copilot.svg" height="36"/> -->
+### AI & Productivity
+[![ChatGPT](assets/badges/chatgpt.svg)](#)
+[![Google Gemini](assets/badges/google-gemini.svg)](#)
+[![Antigravity](assets/badges/antigravity.svg)](#)
+<!-- [![GitHub Copilot](assets/badges/github-copilot.svg)](#) -->
 
-## Analytics & Quality
-<a href="#"><img src="assets/badges/google-analytics.svg" height="36"/></a>
+---
 
+### Analytics & Quality
+[![Google Analytics](assets/badges/google-analytics.svg)](#)  
 Performance, behavior tracking & production monitoring mindset.
 
-## Contact
-<a href="mailto:ichahmedm@gmail.com" target="_blank"><img src="assets/badges/gmail.svg" alt="Gmail" height="28"/></a>
-<a href="https://www.linkedin.com/in/ahmeds1" target="_blank"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="28"/></a>
-<a href="https://wa.me/201014147183" target="_blank"><img src="assets/badges/whatsapp.svg" alt="WhatsApp" height="28"/></a>
-<a href="https://t.me/iahmedm1" target="_blank"><img src="assets/badges/telegram.svg" alt="Telegram" height="28"/></a>
+---
 
-> [ichahmedm@gmail.com](mailto:ichahmedm@gmail.com), [+201014147183](https://wa.me/201014147183)
+### Contact
+[![Antigravity](assets/badges/linkedin.svg)](https://www.linkedin.com/in/ahmeds1)
+[![Antigravity](assets/badges/whatsapp.svg)](https://wa.me/201014147183)
+[![Antigravity](assets/badges/telegram.svg)](https://t.me/iahmedm1)
+<br>
+Mail: ichahmedm@gmail.com, Phone / whatsapp: [+201014147183](https://wa.me/201014147183)
 
-> Clean code. Smooth UX. Real users. Zero fluff, **THAT'S MY CODE**.
+<p align="center">Clean code. Smooth UX. Real users. Zero fluff, <b>THAT'S MY CODE</b>.</p>
 
-<p align="center"><a href="#"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>
+<p align="center"><a href="#" ><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>

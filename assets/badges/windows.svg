@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="112.75" height="28" role="img" aria-label="WINDOWS">
     <title>WINDOWS</title>
     <g shape-rendering="crispEdges">
-        <rect width="112.75" height="28" fill="#0078d6" />
+        <rect rx="3" ry="3" width="112.75" height="28" fill="#0078d6" />
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
         text-rendering="geometricPrecision" font-size="100">
