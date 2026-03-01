@@ -67,6 +67,7 @@ Production apps for clients across MENA & Europe
 - **Education & Booking Systems** — Firebase-first, offline-friendly apps
 
 **Personal & Independent Projects**
+- **LoopsBase - Coding Tutorials**: A comprehensive and visually engaging Flutter application focused on mastering Object-Oriented Programming (OOP), Design Patterns, and Refactoring Techniques. The app also includes an extensive collection of General Programming Concepts and Flutter Interview Questions, all implemented using the Dart programming language. 👉 [Web Version](https://loopsbase.web.app)
 - **Logic — Puzzle Game**: A performance-focused logic puzzle game built with Clean Architecture. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.loops) • [Web Version](https://artisticloops-loops.web.app)
 - **Counter Pro — Islamic App**: A fast, offline-first digital counter for daily Dhikr. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.counter_pro)
 - **Quran App**: Minimal Quran app focused on reading clarity and speed. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.quran)
