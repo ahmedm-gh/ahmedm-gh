@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="193" height="28" aria-label="CLEAN ARCHITECTURE">
+    <title>CLEAN ARCHITECTURE</title>
+    <rect rx="3" ry="3" width="193" height="28" fill="#1e40af" shape-rendering="crispEdges" />
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision" font-size="100">
+        <circle cx="16" cy="14" r="6.5" fill="none" stroke="#fff" stroke-width="1.1" />
+        <circle cx="16" cy="14" r="4.2" fill="none" stroke="#fff" stroke-width="1.1" />
+        <circle cx="16" cy="14" r="1.9" />
+        <text transform="scale(.1)" x="1070" y="175" textLength="1550" font-weight="bold">CLEAN
+            ARCHITECTURE</text>
+    </g>
+</svg>

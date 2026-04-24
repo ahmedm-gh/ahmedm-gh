@@ -1,103 +1,124 @@
-<p align="center"><a href="#" ><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>
+<p align="center"><a href="#"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>
 
 ## Flutter Developer | Clean Architecture | High-Performance Apps
+
 Ahmed Mostafa - Flutter Developer with **4+ years** building **production-grade Android & Web apps** using Flutter & Dart.  
-Shipped apps used by **150k+ users**, focused on **performance, scalability, and clean architecture**.  
+Shipped apps used by **650k+ users**, focused on **performance, scalability, and clean architecture**.  
 I specialize in turning complex requirements into **fast, stable, and maintainable Flutter apps**.
 
 ---
 
 ## Core Expertise
-- **Flutter & Dart**
-- **Object-Oriented Programming**
-- **Performance optimization**: startup time, FPS, rebuilds
-- **Clean Architecture**: SOLID, DRY, KISS
+
+- **Flutter & Dart**: production apps, Android & Web
+- **Clean Architecture**: SOLID, DRY, KISS, layered design
 - **State Management**: BLoC, Cubit
-- **Firebase-first backends & REST APIs**
-- **Pixel-perfect**: Figma → Flutter
+- **Performance**: startup time, FPS, widget rebuild optimization
+- **Firebase-first backends**: Firestore, Auth, Cloud Functions, REST APIs
+- **Pixel-perfect UI**: Figma → Flutter, zero-compromise fidelity
+
+---
 
 ## Tech Stack
 
 ### Languages & Frameworks
+
 [![Flutter](assets/badges/flutter.svg)](#)
 [![Dart](assets/badges/dart.svg)](#)
 
 ### Backend & Data
+
 [![Firebase](assets/badges/firebase.svg)](#)
 [![SQLite](assets/badges/sqlite.svg)](#)
 [![JSON](assets/badges/json.svg)](#)
 
 ### Tools & Workflow
+
 [![VS Code](assets/badges/vscode.svg)](#)
-[![Antigravity](assets/badges/antigravity.svg)](#)  
+[![Antigravity](assets/badges/antigravity.svg)](#)\
 [![Postman](assets/badges/postman.svg)](#)
-[![Git](assets/badges/git.svg)](#)
-[![GitHub Actions](assets/badges/github-actions.svg)](#)  
+[![Git](assets/badges/git.svg)](#)\
+[![GitHub Actions](assets/badges/github-actions.svg)](#)
+[![Azure DevOps](assets/badges/azure-devops.svg)](#)\
 [![Figma](assets/badges/figma.svg)](#)
 [![Google Stitch](assets/badges/google-stitch.svg)](#)
 
-### Platforms
+### Platforms & Deployment
+
 [![Android](assets/badges/android.svg)](#)
 [![Web](assets/badges/web.svg)](#)
 [![Windows](assets/badges/windows.svg)](#)
+[![Shorebird](assets/badges/shorebird.svg)](#)
+
+### Architecture & Patterns
+
+[![Clean Architecture](assets/badges/clean-architecture.svg)](#)
+[![Design System](assets/badges/design-system.svg)](#)
+[![MonoRepo](assets/badges/monorepo.svg)](#)
+[![MultiRepo](assets/badges/multirepo.svg)](#)
+
+### AI & Productivity
+
+[![ChatGPT](assets/badges/chatgpt.svg)](#)
+[![Google Gemini](assets/badges/google-gemini.svg)](#)
+[![Claude](assets/badges/claude.svg)](#)
+[![Antigravity](assets/badges/antigravity.svg)](#)
+<!-- [![GitHub Copilot](assets/badges/github-copilot.svg)](#) -->
+
+### Analytics & Quality
+
+[![Google Analytics](assets/badges/google-analytics.svg)](#)
 
 ---
 
-## Impact Highlights
-- 🚀 **150k+ installs** across production apps.
-- ⚡ **30% faster load times** via widget & render optimization.
-- 🎨 Pixel-perfect UI delivery from Figma.
-- 🌍 Apps shipped **Worldwide**.
+## Impact
 
-## Professional Experience
+- Production apps shipped: **10+**
+- Total installs: **650k+**
+- Load time improvement: **30% faster**
+- Markets reached: UK, KSA, Egypt, Europe
 
-**Flutter Developer — Freelance / Remote**  
-Production apps for clients across MENA & Europe
+---
 
-- Delivered **10+ production Flutter apps** (Android & Web) for real clients
+## Experience
+
+### Flutter Developer - Freelance / Remote
+
+- Delivered **10+ production Flutter apps** (Android & Web) for real clients across MENA & Europe
 - Built apps end-to-end: architecture, UI, state management, Firebase, deployment
 - Converted complex **Figma designs → pixel-perfect Flutter UI**
 - Improved performance (startup time, rebuilds, FPS) across multiple apps
-- Apps deployed in **UK, KSA, Egypt, Europe**
 
-**Notable client work**
-- **AskAli (AI Platform, UK)** — Pixel-perfect UI across 15+ screens, production release
-- **Taxi App (KSA)** — Driver & Rider apps with real-time Firebase data
-- **Meetings Management App (KSA)** — REST APIs, Dio, scalable models
-- **Education & Booking Systems** — Firebase-first, offline-friendly apps
+**Notable client work:**
 
-**Personal & Independent Projects**
-- **Logic — Puzzle Game**: A performance-focused logic puzzle game built with Clean Architecture. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.loops) • [Web Version](https://artisticloops-loops.web.app)
-- **Counter Pro — Islamic App**: A fast, offline-first digital counter for daily Dhikr. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.counter_pro)
-- **Quran App**: Minimal Quran app focused on reading clarity and speed. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.quran)
-<!-- - **Quotes App**: Arabic quotes app with offline access and sharing. 👉 [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.quotes) -->
+- **AskAli (AI Platform, UK)**: Pixel-perfect UI across 15+ screens, production release
+- **Taxi App (KSA)**: Driver & Rider apps with real-time Firebase data
+- **Meetings Management App (KSA)**: REST APIs, Dio, scalable models
+- **Education & Booking Systems**: Firebase-first, offline-friendly apps
 
-**See more at**  
+---
+
+## Personal Projects
+
+- **Logic: Puzzle Game** · Clean Architecture, performance-focused · [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.loops) · [Web](https://artisticloops-loops.web.app)
+- **Counter Pro: Islamic App** · Offline-first Dhikr counter · [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.counter_pro)
+- **Quran App** · Minimal, clarity-first reading experience · [Play Store](https://play.google.com/store/apps/details?id=com.artisticloops.quran)
+
+**More apps:**\
 <a href="https://play.google.com/store/apps/dev?id=7130088124590675241"><img src="assets/badges/google-play.svg" /></a>
 
 ---
 
-### AI & Productivity
-[![ChatGPT](assets/badges/chatgpt.svg)](#)
-[![Google Gemini](assets/badges/google-gemini.svg)](#)
-[![Antigravity](assets/badges/antigravity.svg)](#)
-<!-- [![GitHub Copilot](assets/badges/github-copilot.svg)](#) -->
+## Contact
+
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/ahmeds1)
+[![WhatsApp](assets/badges/whatsapp.svg)](https://wa.me/201014147183)
+[![Telegram](assets/badges/telegram.svg)](https://t.me/iahmedm1)
+
+Mail: <ichahmedm@gmail.com> · WhatsApp / Phone: [+201014147183](https://wa.me/201014147183)
 
 ---
 
-### Analytics & Quality
-[![Google Analytics](assets/badges/google-analytics.svg)](#)  
-Performance, behavior tracking & production monitoring mindset.
+<p align="center">Clean code. Smooth UX. Real users. Zero fluff: <b>THAT'S MY CODE</b>.</p>
 
----
-
-### Contact
-[![Antigravity](assets/badges/linkedin.svg)](https://www.linkedin.com/in/ahmeds1)
-[![Antigravity](assets/badges/whatsapp.svg)](https://wa.me/201014147183)
-[![Antigravity](assets/badges/telegram.svg)](https://t.me/iahmedm1)
-<br>
-Mail: ichahmedm@gmail.com, Phone / whatsapp: [+201014147183](https://wa.me/201014147183)
-
-<p align="center">Clean code. Smooth UX. Real users. Zero fluff, <b>THAT'S MY CODE</b>.</p>
-
-<p align="center"><a href="#" ><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>
+<p align="center"><a href="#"><img src="assets/ahmedmostafa.svg" alt="Ahmed Mostafa" height="85"></a></p>

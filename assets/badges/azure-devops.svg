@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156.5" height="28" aria-label="AZURE DEVOPS">
+    <title>AZURE DEVOPS</title>
+    <rect rx="3" ry="3" width="156.5" height="28" fill="#0078d7" shape-rendering="crispEdges" />
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision" font-size="100">
+        <path
+            d="M9 14.619v-1.594l2.976-3.108 4.713-.008v-1.6l2.994 2.978-2.994 2.49v-1.63l-3.057.007-2.65 2.464zm14-1.161v1.594l-2.976 3.031-4.713.008v1.6l-2.994-2.979 2.994-2.49v1.63l3.057-.006 2.65-2.464z" />
+        <text transform="scale(.1)" x="890" y="175" textLength="1200" font-weight="bold">AZURE
+            DEVOPS</text>
+    </g>
+</svg>

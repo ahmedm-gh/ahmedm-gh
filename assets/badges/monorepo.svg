@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="28" aria-label="MONOREPO">
+    <title>MONOREPO</title>
+    <rect rx="3" ry="3" width="116" height="28" fill="#3d5a80" shape-rendering="crispEdges" />
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision" font-size="100">
+        <!-- One outlined box = single repo; three bars inside = multiple packages -->
+        <rect x="10" y="7.5" width="12" height="13" rx="1.5" fill="none" stroke="#fff"
+            stroke-width="1.2" />
+        <rect x="12.5" y="11" width="7" height="1.1" rx=".4" />
+        <rect x="12.5" y="13.5" width="7" height="1.1" rx=".4" />
+        <rect x="12.5" y="16" width="4.5" height="1.1" rx=".4" />
+        <text transform="scale(.1)" x="695" y="175" textLength="800" font-weight="bold">MONOREPO</text>
+    </g>
+</svg>

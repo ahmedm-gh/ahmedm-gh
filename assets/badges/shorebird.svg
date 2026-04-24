@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" aria-label="SHOREBIRD">
+    <title>SHOREBIRD</title>
+    <rect rx="3" ry="3" width="112" height="28" fill="#00897b" shape-rendering="crispEdges" />
+    <defs>
+        <linearGradient id="sb-grad" x1="49.908" y1="9.78" x2="53.923" y2="29.204"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#d1c2b0" />
+            <stop offset="1" stop-color="#fbeddd" />
+        </linearGradient>
+    </defs>
+    <!-- Icon: scale 24×24 → 14×14, placed at (9,7) -->
+    <g transform="translate(9,7) scale(0.583333)">
+        <path d="M23.838 11.215 21.62 8.999c.127.445.432 1.817.45 2.036z" fill="#a79772" />
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="m19.988 17.21.018-.024.017-.026c1.74-2.654 2.322-4.96 2.099-6.947-.224-1.989-1.24-3.544-2.477-4.722-2.44-2.325-5.87-3.31-6.443-3.464a.77.77 0 0 0-.887.397.78.78 0 0 0 .044.775l.509.785a2.4 2.4 0 0 0-.442.123c-1.108.426-1.995 1.69-2.6 3.962-.686 2.573-2.031 3.883-3.327 4.571-1.324.704-2.663.791-3.347.791a2.9 2.9 0 0 1-1.404-.37 3 3 0 0 1-.476-.328l-.017-.015a.739.739 0 0 0-1.09.993l.574-.465-.575.465.002.002.002.002.007.01.026.031.1.118c.085.1.21.246.372.426.323.36.791.86 1.377 1.428 1.169 1.132 2.824 2.55 4.745 3.654 1.914 1.1 4.154 1.922 6.47 1.77 2.35-.154 4.671-1.305 6.723-3.943M2.153 14.79c-.894-.9-1.414-1.543-1.414-1.543.064.079 10.931 13.453 18.666 3.508-6.064 7.796-14.053 1.261-17.252-1.965"
+            fill="url(#sb-grad)" />
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M14.202 10.784c.668 2.226-2.495 4.897-5.473 4.897-2.622 0-6.945-1.958-5.171-3.694.547-.535 1.157-.532 1.811-.529.483.002.99.005 1.513-.21.637-.26 1.057-.69 1.46-1.104q.167-.174.337-.338a2.955 2.955 0 0 1 5.523.978"
+            fill="#a78f72" />
+        <path d="M17.898 10.22a1.108 1.108 0 1 1 0-2.216 1.108 1.108 0 0 1 0 2.217" fill="#161619" />
+    </g>
+    <!-- Label -->
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision" font-size="100">
+        <text transform="scale(.1)" x="670" y="175" textLength="820" font-weight="bold">SHOREBIRD</text>
+    </g>
+</svg>
